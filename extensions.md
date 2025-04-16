@@ -20,13 +20,10 @@ This file lists recommended VS Code extensions to enhance your React + Vite deve
 
 ## Where to Install Extensions
 
-1. In Codespaces (or VS Code):
+In Codespaces (or VS Code):
    - Click **Extensions** icon (left sidebar, square with four squares).
    - Search by name (e.g., “Prettier”).
    - Click **Install**.
-2. **Why Install Here**:
-   - Codespaces extensions are cloud-based, separate from local VS Code.
-   - They activate on codespace restart, boosting your React workflow.
 
 ## Extensions
 
